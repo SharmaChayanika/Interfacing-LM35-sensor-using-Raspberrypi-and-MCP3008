@@ -1,4 +1,4 @@
-Open terminal and run the following:
+# Open raspberrypi terminal and run the following:
 
 sudo apt-get update
 sudo apt-get install build-essential python-dev python-smbus git
