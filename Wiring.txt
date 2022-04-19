@@ -1,0 +1,8 @@
+	Connect MCP3008 VDD to Raspberry Pi 3.3V
+  Connect MCP3008 VREF to Raspberry Pi 3.3V
+  Connect MCP3008 AGND to Raspberry Pi GND
+  Connect MCP3008 DGND to Raspberry Pi GND
+  Connect MCP3008 CLK to Raspberry Pi SCLK (pin23)
+  Connect MCP3008 DOUT to Raspberry Pi MISO (pin21)
+  Connect MCP3008 DIN to Raspberry Pi MOSI (pin19)
+  Connect MCP3008 CS/SHDN to Raspberry Pi CE0 (pin 24)
