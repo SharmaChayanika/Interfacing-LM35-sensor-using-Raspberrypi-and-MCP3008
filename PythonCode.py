@@ -13,7 +13,7 @@ mcp = Adafruit_MCP3008.MCP3008(spi=SPI.SpiDev(SPI_PORT, SPI_DEVICE))
 
 print('Reading MCP3008 values, press Ctrl-C to quit...')
 
-print('| {0:>4} |'.format(*range(8)))
+print('| Temperature (chr(176)) |'.format(*range(8)))
 print('-' * 57)
 
 while True:
